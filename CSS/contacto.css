@@ -1,0 +1,88 @@
+header{
+    height: 75px;
+    background-color:#ffaabb;
+    padding: 10px 100px
+}
+
+#logo{
+    width: 142px;
+    height: 75px;
+    float: left;
+}
+
+nav{
+    float: right;
+    line-height: 120px;
+}
+
+a{
+    text-decoration: none;
+}
+
+section{
+    background-color: #ff9999;
+    height: 350px;
+    width: 100%;
+    padding: 25px 100px;
+}
+
+form{
+    height: 330px;
+    width: 50%;
+}
+
+input{
+    color: rosybrown;
+    display: block;
+    margin: 10px 0px ;
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: 0;
+}
+textarea{
+    color: rosybrown;
+    display: block;
+    margin: 10px 0px ;
+    border-radius: 4px;
+    border: 0;
+    width: 300px;
+    resize: none;
+}
+button{
+    position: relative;
+    left: 250px;
+}
+
+#contacto{
+    width: 50%;
+    height: 330px;
+
+}
+
+.DivContacto{
+    display: block;
+    width: 100%;    
+    margin-bottom: 25px;
+}
+
+.linea{
+    width: 50%;
+}
+
+section form, section div{
+    float: left;
+}
+
+#rompo{
+    clear: both;
+}
+
+
+
+
+
+footer{
+    background-color: #ff5555;
+    height: 150px;  
+}
